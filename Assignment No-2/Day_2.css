@@ -1,0 +1,10 @@
+.one
+{
+    height: 200px;
+    width: 50%;
+    background-color:cyan;
+    padding: 50px;
+    border: 10px solid black;
+    margin: 50px;
+    display: inline-block;
+}
